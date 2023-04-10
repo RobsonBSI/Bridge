@@ -1,10 +1,10 @@
 public class Porta extends Producao{
-    private int tamanho;
+    private float tamanho;
     public Porta(float maoObra) {
         super(maoObra);
     }
 
-    public void setTamanho(int tamanho) {
+    public void setTamanho(float tamanho) {
         this.tamanho = tamanho;
     }
 

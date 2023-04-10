@@ -1,5 +1,5 @@
 public class Janela extends Producao{
-    private int tamanho;
+    private float tamanho;
     public Janela(float maoObra) {
         super(maoObra);
     }
